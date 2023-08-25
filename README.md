@@ -1,1 +1,1 @@
-# calculator-using-HTML-CSS-JS
+# statical projects using HTML-CSS-JS
